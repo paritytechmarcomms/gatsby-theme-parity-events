@@ -17,7 +17,8 @@ const IndexPage = () => {
   
   return (
     <Layout>
-        <Head />
+        <Head 
+        />
 
         <HeroSection 
             data={textData.heroSection}
