@@ -21,7 +21,7 @@
     git clone https://github.com/paritytechmarcomms/gatsby-theme-parity-events.git
     ```
 
-2.  **Get Setup **
+2.  **Get Setup**
 
     Navigate into your new site’s directory and install all dependencies.
 
@@ -30,7 +30,7 @@
     npm run install
     ```
     
-2.  **Fire the engine **
+2.  **Fire the engine**
 
     Navigate into your new site’s directory and use the following command to start the development server locally.
 
