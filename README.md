@@ -1,39 +1,52 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+  <a href="https://www.parity.io">
+    <img alt="Parity Logo" src="https://www.parity.io/assets/img/logos/logo-parity-dark.png" width="60" />
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  Parity Events Theme
 </h1>
+<h3 align="center">
+  Teamplate Designed for Sub0 - Substrate Development Conference
+</h3>
+
+
 
 ## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
-
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+1.  **Clone the Repo**
 
     ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
+    # create a new folder to get going
+    git clone https://github.com/paritytechmarcomms/gatsby-theme-parity-events.git
     ```
 
-2.  **Start developing.**
+2.  **Get Setup **
 
-    Navigate into your new site’s directory and start it up.
+    Navigate into your new site’s directory and install all dependencies.
 
     ```shell
-    cd my-gatsby-site/
-    npm run develop
+    cd my-folder/
+    npm run install
+    ```
+    
+2.  **Fire the engine **
+
+    Navigate into your new site’s directory and use the following command to start the development server locally.
+
+    ```shell
+    cd my-folder/
+    npm run dev
     ```
 
 3.  **Open the code and start customizing!**
 
     Your site is now running at http://localhost:8000!
+    And your GraphiQL data layer is running at http://localhost:8000/__graphql
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+    Edit to see your site update in real-time!
 
-4.  **Learn more**
+4.  **Learn more about Gatbsy**
 
     - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
