@@ -1,0 +1,39 @@
+{
+    "heroSection": {
+        "dateTime": "October 15th, 12pm - 7pm CEST",
+        "eventName": "The Substrate Developer Community Conference",
+        "heroButtonOne": "Watch Replay",
+        "heroButtonTwo": "See Program"
+    },
+    "shareAndLearn": {
+        "title": "Share and Learn All Things Substrate",
+        "htmlOne": "<p>Join us at Sub0 Online for all the latest on Substrate, the blockchain development framework from Parity Technologies.</p><p>Sub0 Online brings together blockchain developers and Substrate learners from around the world to share and discuss innovative Web3 solutions built using Substrate.</p><p><a href='https://www.substrate.io/'>Substrate</a> is the user-friendly, powerful, and flexible blockchain-development framework—one that allows developers to build new decentralized solutions to fruition faster and easier than ever before.</p><p>We’ll take a deep-dive into unique features of Substrate, showcasing projects that have built and deployed Substrate-based solutions.</p>",
+        "htmlTwo" : "<p>Learn technical skills, discover tools for building better blockchain infrastructure and applications, and leave inspired from connecting with other builders from around the world.</p><p>The multi-track conference program caters both to those who are new to Substrate and want to discover its capabilities, and to existing Substrate builders who want to extend their expertise.</p><p>You can expect talks from Dr. Gavin Wood, <a href='https://polkadot.network/'>Polkadot</a> founder, Dr. Jutta Steiner, CEO of <a href='https://www.parity.io/'>Parity Technologies</a>, Substrate developers, and from projects currently building with Substrate.</p>"
+    },
+    "whoAttend": {
+        "title": "Who Should Attend?",
+        "blockOneTitle": "Blockchain developers",
+        "blockOneText": "Blockchain developers who want to learn about the technical advantages of using Substrate for their blockchain solutions.",
+        "blockTwoTitle": "Substrate developers",
+        "blockTwoText": "Substrate developers looking to bring their project to the next level.",
+        "blockThreeTitle": "Blockchain enthusiasts",
+        "blockThreeText": "Individuals interested in learning more about the technology used in building disruptive solutions, and connecting with the ecosystem."
+    },
+    "howToJoin": {
+        "title": "How to Join?",
+        "blockOneTitle": "Sign up",
+        "blockTwoTitle": "Connect",
+        "blockThreeTitle": "Show up"
+    },
+    "watchReplay": {
+        "title": "Couldn't make it to Sub0 Online?",
+        "buttonText": "Watch replay now",
+        "privacyNotice":"To see how we use your information please see our <a href='https://www.parity.io/privacy/'>privacy policy</a>."
+    },
+    "program": {
+        "title": "Program October 15th",
+        "headingOne": "Time (CEST",
+        "headingTwo": "Topic",
+        "headingThree": "Presenter"
+    }
+}

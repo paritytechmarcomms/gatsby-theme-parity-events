@@ -1,0 +1,84 @@
+{
+    "program": [
+        {
+            "slot": "1",
+            "time": "12:00",
+            "title": "Welcome",
+            "excerpt": "This is a sample description",
+            "speaker": "Jutta Steiner",
+            "speakerTitle": "CEO",
+            "company": "Parity",
+            "image": "jutta-steiner.jpg"
+        },
+        {
+            "slot": "2",
+            "time": "12:05",
+            "title": "Keynote",
+            "excerpt": "Dr. Gavin Wood, Polkadot Founder, recounts the progress made on Substrate development over the past two years, summarizes the current state of Substrate, and shares his vision of the role Substrate will play in the future of the blockchain space.",
+            "speaker": "Gavin Wood",
+            "speakerTitle": "Founder",
+            "company": "Polkadot & Parity",
+            "image": "gavin-wood.jpg"
+        },
+        {
+            "slot": "3",
+            "time": "12:35",
+            "title": "What the Heck Is Substrate",
+            "excerpt": "Fredrik Harryson, CTO of Parity walks through what Substrate is, what it does, and what solutions can be built with it.",
+            "speaker": "Fredrik Harrysson",
+            "speakerTitle": "CTO",
+            "company": "Parity",
+            "image": "fredrik-harrysson.jpg"
+        },
+        {
+            "slot": "4",
+            "time": "12:55",
+            "title": "Anatomy of a Substrate Node",
+            "excerpt": "A Substrate node orchestrates a number of related processes. In this talk, Parity Developer Advocate Dan Forbes describes the components that make up a Substrate node. What capabilities do these components encapsulate? How do they interact with one another? The components that will be covered include storage, the runtime, networking, consensus engines and more. This talk is designed to set the stage for the more in-depth talks that follow.",
+            "speaker": "Dan Forbes ",
+            "speakerTitle": "Developer Advocate",
+            "company": "Parity",
+            "image": "dan-forbes.jpg"
+        },
+        {
+            "slot": "5",
+            "time": "13:15",
+            "title": "Run, Learn, Fix and Repeat: Launching the First Parachain Test Network",
+            "excerpt": "This talk is about launching the first parachain test network Rococo and the (hard) way we have gone. We will give some brief introduction on how parachains work, what Cumulus is and why you need it to write a parachains with Substrate. Then we will go into some details about bugs we have seen, how we solved them and what still needs to be done.",
+            "speaker": "Bastian Köcher",
+            "speakerTitle": "Core Developer",
+            "company": "Parity",
+            "image": "bastian-koecher.jpg"
+        },
+        {
+            "slot": "6",
+            "time": "13:35",
+            "title": "ink! 3.0: A Rust & Smart Contracts Love Story",
+            "excerpt": "Substrate's Contracts pallet supports Wasm smart contracts. The most popular way to write these contracts is with the Rust-based eDSL called ink!. In this talk, Robin Freyler presents the newest features that ink! 3.0 offers to users, compares them to features of the well known Solidity language, and shows some simple example code written in ink!. If you enjoyed this talk, consider the ink! workshop later in the day.",
+            "speaker": "Robin Freyler",
+            "speakerTitle": "Core Developer",
+            "company": "Parity",
+            "image": "robin-freyler.jpg"
+        },
+        {
+            "slot": "7",
+            "time": "13:55",
+            "title": "Substrate's RPC Endpoints: What You Already Have and How to Get Moar",
+            "excerpt": "Block explorers, wallets, and user interfaces are necessary parts of a healthy blockchain ecosystem. All of these applications communicate with Substrate nodes through its RPC. In this talk, Tomasz Drwięga summarizes the RPC endpoints that come with every Substrate node, the optional endpoints that can be easily added, and the modular nature of Substrate that makes it possible to add your own custom RPC endpoints.",
+            "speaker": "Tomasz Drwięga",
+            "speakerTitle": "Core Developer",
+            "company": "Parity",
+            "image": "tomasz-drwiega.jpg"
+        },
+        {
+            "slot": "8",
+            "time": "14:15",
+            "title": "Benchmarking Your Runtime",
+            "excerpt": "Economic security is the name of the game in a decentralized blockchain network. In this talk Shawn Tabrizi explains why it is important to charge the correct fees for transactions, and explains the tools Substrate provides that make determining the correct fees easy.",
+            "speaker": "Shawn Tabrizi",
+            "speakerTitle": "Core Developer",
+            "company": "Parity",
+            "image": "shawn-tabrizi.jpg"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "speakers": [
+        {
+            "name":"Gavin Wood",
+            "title": "Founder",
+            "company": "Parity & Polkadot",
+            "image": "gavin-wood.jpg",
+            "twitterHandle": "@gavofyork",
+            "twitterUrl": "https://twitter.com/gavofyork"
+        },
+        {
+            "name":"Jutta Steiner",
+            "title": "CEO & Founder",
+            "company": "Parity",
+            "image": "jutta-steiner.jpg",
+            "twitterHandle": "@@jutta_steiner",
+            "twitterUrl": "https://twitter.com/jutta_steiner" 
+        },
+        {
+            "name":"Fredrik Harrysson",
+            "title": "CTO",
+            "company": "Parity",
+            "image": "fredrik-harrysson.jpg",
+            "twitterHandle": "@fredhrson",
+            "twitterUrl": "https://twitter.com/fredhrson" 
+        },
+        {
+            "name":"Björn Wagner",
+            "title": "CCO",
+            "company": "Parity",
+            "image": "bjoern-wagner.jpg",
+            "twitterHandle": "@bjornwgnr",
+            "twitterUrl": "https://twitter.com/bjornwgnr" 
+        },
+        {
+            "name":"Bastian Köcher",
+            "title": "Core Developer",
+            "company": "Parity",
+            "image": "bastian-koecher.jpg",
+            "twitterHandle": "@bkchr",
+            "twitterUrl": "https://twitter.com/bkchr" 
+        },
+        {
+            "name":"Dan Forbes",
+            "title": "Developer Advocate",
+            "company": "Parity",
+            "image": "dan-forbes.jpg",
+            "twitterHandle": "@danforbesdev",
+            "twitterUrl": "https://twitter.com/danforbesdev"
+        },
+        {
+            "name":"Gavin Wood",
+            "title": "Founder",
+            "company": "Parity & Polkadot",
+            "image": "gavin-wood.jpg",
+            "twitterHandle": "@gavofyork",
+            "twitterUrl": "https://twitter.com/gavofyork"
+        },
+        {
+            "name":"Jutta Steiner",
+            "title": "CEO & Founder",
+            "company": "Parity",
+            "image": "jutta-steiner.jpg",
+            "twitterHandle": "@@jutta_steiner",
+            "twitterUrl": "https://twitter.com/jutta_steiner" 
+        },
+        {
+            "name":"Fredrik Harrysson",
+            "title": "CTO",
+            "company": "Parity",
+            "image": "fredrik-harrysson.jpg",
+            "twitterHandle": "@fredhrson",
+            "twitterUrl": "https://twitter.com/fredhrson" 
+        },
+        {
+            "name":"Björn Wagner",
+            "title": "CCO",
+            "company": "Parity",
+            "image": "bjoern-wagner.jpg",
+            "twitterHandle": "@bjornwgnr",
+            "twitterUrl": "https://twitter.com/bjornwgnr" 
+        },
+        {
+            "name":"Bastian Köcher",
+            "title": "Core Developer",
+            "company": "Parity",
+            "image": "bastian-koecher.jpg",
+            "twitterHandle": "@bkchr",
+            "twitterUrl": "https://twitter.com/bkchr" 
+        },
+        {
+            "name":"Dan Forbes",
+            "title": "Developer Advocate",
+            "company": "Parity",
+            "image": "dan-forbes.jpg",
+            "twitterHandle": "@danforbesdev",
+            "twitterUrl": "https://twitter.com/danforbesdev"
+        }
+    ]
+}
