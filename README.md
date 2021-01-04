@@ -20,7 +20,7 @@ Important Convention Note
 
 ### Status [Production](https://sub0-production.netlify.app/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fe274b09-8ac5-45f6-8383-b79fcf061756/deploy-status)](https://app.netlify.com/sites/gallant-lamarr-7fce67/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a0249148-f3c7-400a-9582-f4ed30b789ed/deploy-status)](https://app.netlify.com/sites/sub0-production/deploys)
 
 ## 🚀 Quick start
 
