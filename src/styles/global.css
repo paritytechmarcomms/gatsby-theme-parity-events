@@ -6,8 +6,10 @@
 
 
 @layer base {
+    
     * {
         @apply leading-normal;
+        scroll-behavior: smooth;
     }
 
     body {
