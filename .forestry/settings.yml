@@ -6,7 +6,8 @@ webhook_url:
 sections:
 - type: document
   path: src/content/program.json
-  label: Event Program
+  label: Program
+  match: "**/*"
 - type: document
   path: src/content/speakers.json
   label: Event Speakers
