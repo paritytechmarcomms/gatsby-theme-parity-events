@@ -10,9 +10,12 @@
   Teamplate Designed for Sub0 - Substrate Development Conference
 </h3>
 
-
+Important Convention Note
+> Always create your own branch to work on the site. Use `staging` for testing.  Both Netlify flags towards the bottom display status of `staging` and `main` site.  `main` is production ONLY and deployed by dedicated Dev or Comms team through Forestry.
 
 ## 🚀 Quick start
+
+
 
 1.  **Clone the Repo**
 
