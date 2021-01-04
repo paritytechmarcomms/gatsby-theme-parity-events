@@ -7,18 +7,14 @@ sections:
 - type: document
   path: src/content/program.json
   label: Event Program
-  match: "**/*"
 - type: document
   path: src/content/speakers.json
   label: Event Speakers
-  match: "**/*"
 - type: document
   path: src/content/text.json
   label: Site Text
-  match: "**/*"
-  read_only: false
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: src/images/speakers
+public_path: ''
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
