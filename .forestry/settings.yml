@@ -5,6 +5,14 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: src/content/program.json
+  label: Event Program
+  match: "**/*"
+- type: document
+  path: src/content/speakers.json
+  label: Event Speakers
+  match: "**/*"
+- type: document
   path: src/content/text.json
   label: Site Text
   match: "**/*"
