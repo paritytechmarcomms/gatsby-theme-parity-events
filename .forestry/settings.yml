@@ -3,17 +3,7 @@ new_page_extension: md
 auto_deploy: false
 admin_path: ''
 webhook_url: 
-sections:
-- type: document
-  path: src/content/program.json
-  label: Program
-  match: "**/*"
-- type: document
-  path: src/content/speakers.json
-  label: Event Speakers
-- type: document
-  path: src/content/text.json
-  label: Site Text
+sections: 
 upload_dir: src/images/speakers
 public_path: ''
 front_matter_path: ''
