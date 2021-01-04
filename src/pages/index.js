@@ -41,7 +41,7 @@ const IndexPage = () => {
         />
 
         <Program 
-            textData={textData.program}
+            textData={textData.programTable}
             programData={programData}
         />
         <WatchReplay 
