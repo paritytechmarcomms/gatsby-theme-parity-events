@@ -13,12 +13,12 @@
 Important Convention Note
 > Always create your own branch to work on the site. Use `staging` for testing.  Both Netlify flags towards the bottom display status of `staging` and `main` site.  `main` is production ONLY and deployed by dedicated Dev or Comms team through Forestry.
 
-### Status [Staging](sub0-staging.netlify.app) 
+### Status [Staging](https://sub0-staging.netlify.app/) 
 (Password protected; ask in Web Channel on Mattermost)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fe274b09-8ac5-45f6-8383-b79fcf061756/deploy-status)](https://app.netlify.com/sites/gallant-lamarr-7fce67/deploys)
 
-### Status [Production](sub0-production.netlify.app)
+### Status [Production](https://sub0-production.netlify.app/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fe274b09-8ac5-45f6-8383-b79fcf061756/deploy-status)](https://app.netlify.com/sites/gallant-lamarr-7fce67/deploys)
 
