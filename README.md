@@ -39,7 +39,7 @@ Important Convention Note
 
     ```shell
     cd my-folder/
-    npm run install
+    npm install
     ```
     
 2.  **Fire the engine**
